@@ -1,1 +1,2 @@
-sudo mkarchiso -v -w .
+#!/bin/sh
+sudo mkarchiso -v .
