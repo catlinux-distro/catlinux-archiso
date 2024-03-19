@@ -5,12 +5,11 @@ amd-ucode
 arch-install-scripts
 b43-fwcutter
 base
-bind-tools
 broadcom-wl
+bind
 btrfs-progs
 clonezilla
 cloud-init
-crda
 cryptsetup
 darkhttpd
 ddrescue
@@ -99,8 +98,15 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI KDE Plasma Core
 xorg
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-vmware
+xorg-server
+xorg-xinit
+
 sddm
 bash-completion
 networkmanager
@@ -110,59 +116,40 @@ xf86-input-libinput
 pacman-contrib
 virtualbox-guest-utils
 
-#ALG Plasma
-plasma
-alg-plasma-settings
+plasma-meta
 
-#System Utilities for ALG Plasma
 konsole
 kate
 dolphin
 dolphin-plugins
 xdg-user-dirs
-spectacle
+flameshot
 ark
 gwenview
-filelight
-kcalc
 neofetch
+bluez
 bluez-utils
-packagekit-qt5
 pulseaudio-bluetooth
 
-#Installer
 grub
 calamares
-alg-theme-cala-config
+catlinux-calamares-config
 os-prober
 
-#Browser
 firefox
-alg-firefox-settings
 
-#Office Suite
 libreoffice-fresh
 okular
 
-#fonts
-ttf-ms-fonts
-ttf-roboto
-noto-fonts-cjk
-
-#printing
-cups
-
-#Video
 vlc
 
-#Icons
-tela-circle-icon
-mcmojave-cursors
-
-#AUR Helper
-paru
-
-#NVIDIA Drivers & Tools
 nvidia
 nvidia-utils
 nvidia-settings
+
+vim
+vi
+
+network-manager-applet
+
+mesa

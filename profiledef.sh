@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="alg-plasma"
-iso_label="ALG_KDE_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="DemonKiller <https://demonkiller.in>"
-iso_application="ALG Live/Rescue CD"
+iso_name="catlinux"
+iso_label="CatLinux_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_publisher="ThePolishCat"
+iso_application="CatLinux Live/Rescue CD"
 iso_version="$(date +%Y.%m)"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
