@@ -21,7 +21,7 @@ DialogHeight=804
 DialogWidth=1285
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/usr/share/catitems/wallpaper1.png
+Image=file:///usr/share/catitems/wallpaper1.png
 
 [Containments][2]
 activityId=

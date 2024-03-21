@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ThePolishCat"
+            }
+        ],
+        "Description": "CatLinux theme",
+        "Id": "cat.CatLinux.desktop",
+        "License": "GPL",
+        "Name": "CatLinux Dark"
+    }
+}

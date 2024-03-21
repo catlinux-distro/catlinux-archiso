@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ThePolishCat"
+            }
+        ],
+        "Id": "CatLinux",
+        "License": "GPL",
+        "Name": "CatLinux Wallpaper"
+    }
+}
