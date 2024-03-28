@@ -130,8 +130,6 @@ calamares
 catlinux-calamares-config
 os-prober
 firefox
-libreoffice-fresh
-okular
 vlc
 nvidia
 nvidia-utils
@@ -140,8 +138,6 @@ vim
 vi
 network-manager-applet
 mesa
-
-
 
 bluedevil
 breeze
@@ -201,3 +197,7 @@ sddm-kcm
 systemsettings
 wacomtablet
 xdg-desktop-portal-kde
+
+
+gdu
+filelight
