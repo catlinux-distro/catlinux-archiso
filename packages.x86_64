@@ -32,7 +32,6 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
 hdparm
 intel-ucode
 irssi
@@ -198,6 +197,16 @@ systemsettings
 wacomtablet
 xdg-desktop-portal-kde
 
+lsd
+bat
+tldr
+
 
 gdu
 filelight
+
+ttf-meslo-nerd
+
+catlinux-configs
+
+zsh-theme-powerlevel10k
