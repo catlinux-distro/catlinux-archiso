@@ -134,7 +134,6 @@ grub
 calamares
 catlinux-calamares-config
 os-prober
-firefox
 vlc
 nvidia
 nvidia-utils
@@ -207,8 +206,6 @@ lsd
 bat
 tldr
 
-
-gdu
 filelight
 
 catlinux-configs
