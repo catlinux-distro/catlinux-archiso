@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ThePolishCat"
+            }
+        ],
+        "Category": "",
+        "EnabledByDefault": true,
+        "Id": "catlinux-dark",
+        "License": "GPL",
+        "Name": "CatLinux Dark",
+        "Version": "6.0.0"
+    },
+    "X-Plasma-API": "5.0"
+}

@@ -1,3 +1,1 @@
-### Arch Linux GUI
-
-ALG Plasma Themed Edition
+### CatLinux Archiso
