@@ -1,6 +1,5 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
-vim
 qemu-guest-agent
 pv
 linux-firmware-marvell
@@ -14,7 +13,7 @@ base
 broadcom-wl
 bind
 btrfs-progs
-clonezilla
+#clonezilla
 cloud-init
 cryptsetup
 darkhttpd
@@ -106,12 +105,10 @@ xorg
 xf86-video-amdgpu
 xf86-video-ati
 xf86-video-intel
-xf86-video-nouveau
 xf86-video-vmware
 xorg-server
 xorg-xinit
 sddm
-bash-completion
 networkmanager
 linux-headers
 base-devel
@@ -124,8 +121,6 @@ dolphin
 dolphin-plugins
 xdg-user-dirs
 flameshot
-ark
-gwenview
 neofetch
 bluez
 bluez-utils
@@ -134,7 +129,6 @@ grub
 calamares
 catlinux-calamares-config
 os-prober
-vlc
 nvidia
 nvidia-utils
 nvidia-settings
@@ -147,7 +141,6 @@ bluedevil
 breeze
 breeze-gtk
 breeze-plymouth
-discover
 drkonqi
 flatpak-kcm
 kactivitymanagerd
@@ -157,7 +150,6 @@ kdecoration
 kdeplasma-addons
 kgamma
 kglobalacceld
-kinfocenter
 kmenuedit
 kpipewire
 kscreen
@@ -190,7 +182,6 @@ plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
 plasma-workspace
-plasma-workspace-wallpapers
 plasma5support
 plymouth-kcm
 polkit-kde-agent
@@ -199,7 +190,6 @@ print-manager
 qqc2-breeze-style
 sddm-kcm
 systemsettings
-wacomtablet
 xdg-desktop-portal-kde
 
 lsd
